@@ -52,4 +52,4 @@ Looking for a small business partner with real experience? Let's chat.
 
 ---
 
-*Virginia Certified Small Business | CMMC Level 1 | TS/SCI Cleared Personnel*
+*Virginia Certified Small Business | CMMC Level 1 | Cleared Personnel*
