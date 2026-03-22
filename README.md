@@ -2,7 +2,7 @@
 
 **Cybersecurity & Software Engineering for Federal Agencies and the Department of War**
 
-🌐 [datapulsetech.com](http://www.datapulsetech.com) | 📍 Northern Virginia & St. Louis
+🌐 [datapulsetech.com](https://www.datapulsetech.com) | 📍 Northern Virginia & St. Louis
 
 ---
 
@@ -22,7 +22,7 @@ Our core capabilities:
 
 ## Why Data Pulse Tech
 
-- Deep familiarity with Federal agency mission focused environment
+- Deep familiarity with Federal agency mission-focused environment
 - Staff available in **Northern Virginia** and **St. Louis**
 - Security+ certified engineers
 - CMMC Level 1 compliant
