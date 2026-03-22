@@ -47,7 +47,7 @@ We're not a body shop. We're engineers who've worked the mission and know what i
 
 Looking for a small business partner with real experience? Let's chat.
 
-- 🌐 [datapulsetech.com](http://www.datapulsetech.com)
+- 🌐 [datapulsetech.com](https://www.datapulsetech.com)
 - 📧 Reach us through our website
 
 ---
