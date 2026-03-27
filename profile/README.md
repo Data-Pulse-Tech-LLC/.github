@@ -1,6 +1,6 @@
 # Data Pulse Tech LLC
 
-**Cybersecurity & Software Engineering for Federal Agencies and the Department of War**
+**Cybersecurity & Software Engineering for Federal Agencies and defense contractors**
 
 🌐 [datapulsetech.com](https://www.datapulsetech.com) | 📍 Northern Virginia & St. Louis
 
