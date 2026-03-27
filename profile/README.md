@@ -8,7 +8,7 @@
 
 ## What We Do
 
-Data Pulse Tech is a Virginia-certified small business delivering cleared technical expertise to Federal agencies and Department of War clients. We build and secure the systems that matter - in classified environments where quality and trust aren't optional.
+Data Pulse Tech is a Virginia-certified small business delivering cleared technical expertise to Federal agencies and defense contractors. We build and secure the systems that matter - in environments where quality and trust aren't optional.
 
 Our core capabilities:
 
@@ -16,7 +16,7 @@ Our core capabilities:
 - **DevSecOps** - Containerization, CI/CD pipelines, and infrastructure modernization
 - **Cybersecurity** - Vulnerability research, security remediation, and compliance
 - **Data Engineering** - Large-scale data platform development and optimization
-- **Technical Services** - Staffing and delivery in classified environments
+- **Technical Services** - Staffing and delivery in secure environments
 
 ---
 
@@ -28,7 +28,7 @@ Our core capabilities:
 - CMMC Level 1 compliant
 - Virginia Certified Small Business
 
-We're not a body shop. We're engineers who've worked the mission and know what it takes to deliver in classified environments across Federal agencies and the Department of War.
+We're not a body shop. We're engineers who've worked the mission and know what it takes to deliver in secure environments across the government.
 
 ---
 
@@ -52,4 +52,4 @@ Looking for a small business partner with real experience? Let's chat.
 
 ---
 
-*Virginia Certified Small Business | CMMC Level 1 | Cleared Personnel*
+*Virginia Certified Small Business | CMMC Level 1 *
